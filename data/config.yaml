@@ -1,12 +1,12 @@
-name: Jacky Zhao
+name: Leo
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  This is Leo's personal digital garden, to store and share personal research and thoughts.
+  这是Leo的数字花园，记录我学习生活中的心路历程。
 page_title:
-  Quartz Example Page
+  Leo's Digital Graden
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Zhihu
+    link: https://www.zhihu.com/people/LeoGreenMax
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/lb19940508
