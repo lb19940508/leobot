@@ -13,6 +13,7 @@ Special thanks to [digital garden](https://jzhao.xyz/posts/digital-gardening).
 - aslo [中文名称的网页](%E4%B8%AD%E6%96%87%E5%90%8D%E7%A7%B0%E7%9A%84%E7%BD%91%E9%A1%B5.md)
 - aslo [中文名称的网页](中文名称的网页.md)
 - Now let's try some links like this: [test note2](test note2.md)
+- [hosting](notes/hosting.md)
 ## Why Quartz?
 Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
 
