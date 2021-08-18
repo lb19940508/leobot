@@ -6,7 +6,8 @@ Special thanks to [digital garden](https://jzhao.xyz/posts/digital-gardening).
 I really like [Obsidian](obsidian.md), a note editor. It's really smooth using it.
 The publish function is also wanted, but it's too expensive for me too use it since it is 100$/year.
 Luckily I found quarz, a relatively applicable way for both editing and publishing. Credit to the author JackyZhao.
-Wish to grow this website bigger
+Wish to grow this website bigger.
+Let's see how far I can go with it.
 
 ## Why Quartz?
 Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
