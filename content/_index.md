@@ -8,7 +8,9 @@ Special thanks to [digital garden](https://jzhao.xyz/posts/digital-gardening).
 - Luckily I found quarz, a relatively applicable way for both editing and publishing. Credit to the author JackyZhao.
 - Wish to grow this website bigger.
 - Let's see how far I can go with it.
-
+- Now let's try some links like this: [test note](test%20note.md)
+- also [test2](notes/test2.md)
+- also [[notes/test 3]]
 ## Why Quartz?
 Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
 
