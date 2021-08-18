@@ -10,3 +10,4 @@ Simple second brain and digital garden.
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 ## MOC
+test
