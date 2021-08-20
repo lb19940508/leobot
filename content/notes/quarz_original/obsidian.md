@@ -16,7 +16,7 @@ Great, now that you have your Obsidian linked to your Quartz, let's fix some set
 
 Under Options > Files and Links, set the New link format to always be Absolute Path in Vault and disabled WikiLinks so Obsidian generates regular Markdown links.
 
-![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*
+![Obsidian Settings](notes/quarz_original/images/obsidian-settings.png)*Obsidian Settings*
 
 ## Templates
 Inserting front matter everytime you want to create a new Note gets really annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.
