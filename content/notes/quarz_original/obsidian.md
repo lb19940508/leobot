@@ -6,7 +6,7 @@ title: "Obsidian Vault Integration"
 Obsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.
 
 ### New Vault
-If you don't have an existing Vault, [download Obsidian](https://obsidian.md/) and create a new Vault in the `/content` folder that you created and cloned during the [setup](notes/setup.md).
+If you don't have an existing Vault, [download Obsidian](https://obsidian.md/) and create a new Vault in the `/content` folder that you created and cloned during the [setup](notes/quarz_original/setup.md).
 
 ### Linking an existing Vault
 The easiest way to use an existing Vault is to copy all of our files (directory and hierarchies intact) into the `/content` folder.

@@ -80,6 +80,6 @@ Don't want to use GitHub Pages? Hugo builds everything for you! Everything is a 
 
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 
-🎨 [Customizing Quarts](notes/config.md)
+🎨 [Customizing Quarts](notes/quarz_original/config.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](notes/quarz_original/troubleshooting.md).
