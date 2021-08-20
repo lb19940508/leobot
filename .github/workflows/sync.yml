@@ -17,7 +17,7 @@ jobs:
           # 注意替换为你的 Gitee 目标仓库地址
           destination-repo: "git@gitee.com:leobot/leobot.git"
     - name: Build Gitee Pages
-      uses: yanglbme/gitee-pages-action@master
+      uses: lb19940508/gitee-pages-action@master
       with:
           # 注意替换为你的 Gitee 用户名
           gitee-username: Leobot
