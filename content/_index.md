@@ -5,7 +5,7 @@ Hello, I'm Leo. I've always been wanting to have a place to host my words, as my
 In this web page, you could see my thoughts  I've been developing while I learning and consuming stuff.
 
 ## What am I trying to to?
-- I really like [Obsidian](https://obsidian.md), a note editor. It's really smooth using it.
+- I really like [Obsidian](https://www.obsidian.md), a note editor. It's really smooth using it.
 - The publish function is also wanted, but it's too expensive for me too use it since it is 100$/year.
 - Luckily I found quarz, a relatively applicable way for both editing and publishing. Credit to the author JackyZhao.
 - Wish to grow this website bigger.
