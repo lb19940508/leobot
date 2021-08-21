@@ -1,5 +1,5 @@
 # 🌱 Home
-一直以来，其实都想有一个属于自己的地方，可以写一写自己的想法，记录下自己学到的有价值的东西。尝试了许久之后终于搭好了这网站，希望可以长久的运作下去。
+一直以来，其实都想有一个属于自己的地方，可以写一写自己的想法，记录下自己学到的有价值的东西。尝试了许久之后终于搭好了这个网站，希望可以长久的运作下去。
 
 Hello, I'm Leo. I've always been wanting to have a place to host my words, as my digital garden. Here, after endless try and error, finally I got this one.
 
