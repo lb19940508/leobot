@@ -37,14 +37,14 @@ You can edit it in `config.toml` and either use a V3 (UA-) or V4 (G-) tag.
 To edit the main home page, open `/content/_index.md`.
 
 ### How do I change the colours?
-You can change the theme by editing `assets/custom.scss`. More details on customization and themeing can be found in the [customization guide](notes/quarz_original/config.md).
+You can change the theme by editing `assets/custom.scss`. More details on customization and themeing can be found in the [customization guide](/notes/quarz_original/config.md).
 
 ### How do I add images?
 You can put images anywhere in the `/content` folder. The only caveat is that you should reference them in your Markdown by prefixing it with a `/`.
 
 ```markdown
-Example image (source is in content/notes/images/example.png)
-![Example Image](/content/notes/images/example.png)
+Example image (source is in content/notes/quarz_original/images/example.png)
+![Example Image](/content/notes/quarz_originalimages/example.png)
 ```
 
 ### My Interactive Graph and Backlinks aren't up to date

@@ -11,5 +11,5 @@ In this website, you could see my thoughts  I've been developing while I learnin
 - Wish to grow this website bigger. Let's see how far I can go with it.
 
 
-For more info about this template, checkout it's [Origin](notes/quarz_original/_index_original.md)
+For more info about this template, checkout it's [Origin](/notes/quarz_original/_index_original.md)
   
