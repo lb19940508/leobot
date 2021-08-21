@@ -3,7 +3,7 @@
 
 Hello, I'm Leo. I've always been wanting to have a place to host my words, as my digital garden. Here, after endless try and error, finally I got this one.
 
-In this web page, you could see my thoughts  I've been developing while I learning and consuming stuff. Hope you could enjoy it.
+In this website, you could see my thoughts  I've been developing while I learning and consuming stuff. Hope you could enjoy it.
 
 ## What am I trying to to?
 - I really like [Obsidian](https://obsidian.md/), a note editor. It's really smooth using it.
