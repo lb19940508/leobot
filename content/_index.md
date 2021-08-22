@@ -11,7 +11,6 @@ In this website, you could see my thoughts  I've been developing while I learnin
 - Wish to grow this website bigger. Let's see how far I can go with it.
 
 ## Summary
-- [做科普的四条原则](notes/做科普的四条原则.md)
-- 
+- [未命名](未命名.md)
 For more info about this template, checkout it's [Origin](/notes/quarz_original/_index_original.md)
   
