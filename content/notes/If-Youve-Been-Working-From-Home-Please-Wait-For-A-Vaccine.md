@@ -1,0 +1,12 @@
+---
+title: "If-You've-Been-Working-From-Home-Please-Wait-For-A-Vaccine"
+---
+
+-   If we have been working from home, that means we have already in some way been protected. So we are not those who need vaccines urgently.
+-   For our working from home, thousands of others have given up their chances of staying at home. The polices, caretakers, people working for postal services, doctors and nurses, those are the ones that are so venerable and need the doses so desperately. Therefore, if we are already at home, we should not be prioritized to get the shot before these people.
+-   In the United States, many states outsourced the service of vaccine distributions, which tend to use the technology as a solution. For instance, in Philadelphia, the government turned over the distribution to a 22-year-old CEO, a mythic hero who solves complex problems with technology. The application for vaccine involves online registration and complicated sets of procedures. However, what accompanies it are disastrous results.
+-   There are so many people who does not have access to computers, let alone the internet. The displaced people, the elderly and the incarcerated, those are the ones that are most likely contract the illness, however, the technology barrier just exclude them out of the roster. While those who could work from home and spend 12 hours a day online, thanks to this filter, are prioritized to get doses before the mostly needed.
+-   In the United States, disparities abound, and the involvement of technology, exacerbates the situation, making the racism even worse in the society, for those who couldn't afford to miss their work, are marginal communities, predominantly black and brown people. They bear great risks doing their work, while living in dire straits, and may have less opportunity to be vaccinated with such tech-based distribution plan.
+-   The government should go to people, rather than make people go to them. As for tax and crimes, the Gov. would go to the tax payers and criminals directly. The same should be applied for vaccine rollout. There's a good example, the Virginia. It provides a good model for scaling up that mobile VAX team to distribute vaccines equitably.
+-   Anyway, if we are working from home, just wait for a vaccine, and try to help those who do not have access to computer and internet, to get the most susceptible people first.
+-   Ref: [If You’ve Been Working from Home, Please Wait for Your Vaccine](https://www.scientificamerican.com/article/if-youve-been-working-from-home-please-wait-for-your-vaccine1/)
