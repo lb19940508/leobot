@@ -12,7 +12,7 @@ title: "Chronic Kidney Disease"
 - Nerves, muscles and other tissues stop working normally and can eventually fail without this balance. This is called Chronic Kidney Disease, and is growing global wide,
 ## What is dialysis?
 - Dialysis helps solve the occurred problem when there is a kidney failure. It cleans the fluid and maintain a safe level of sodium and potassium and other chemicals in the blood. 
-- Dialysis could not cure patient with kidney failure, but it will keep them alive for organ transplant wherever life takes them - though disparities abound, especially in the U.S..
+- Dialysis could not cure patient with kidney failure, but it will keep them alive for organ transplant wherever life takes them - though disparities abound, especially in the U.S.
 ## Types of dialysis
 - There are two major types of dialysis. One is hemodialysis, which uses an artificial kidney out of your body to filter the blood. The other is peritoneal dialysis, which uses the lining of your own abdomen as a natural filter, and pump fluid in and out via catheter.
 ## Commercial development of dialysis
