@@ -4,7 +4,6 @@
 Hello, I'm Leo. I've always been wanting to have a place to host my notes, as my digital garden. Here, after endless try and error, finally I got this one.
 
 In this website, you could see my thoughts  I've been developing while I learning and consuming stuff. Hope you could enjoy it.
-
 ## Summary
 - [做科普的四条原则](notes/做科普的四条原则.md)
 - [If You’ve Been Working From Home Please Wait For A Vaccine](notes/If-Youve-Been-Working-From-Home-Please-Wait-For-A-Vaccine.md)
@@ -17,6 +16,5 @@ In this website, you could see my thoughts  I've been developing while I learnin
 - [Mosquito Has a Needle like Proboscis](notes/Mosquito-Has-a-Needle-like-Proboscis.md)
 - [Many Long COVID Patients are suffering](notes/Many-Long-COVID-Patients-are-suffering.md)
 - [如何像定位笔记一样找到癌细胞](notes/如何像定位笔记一样找到癌细胞.md)
-
-For more info about this template, checkout it's [Origin](/notes/quarz_original/_index_original.md)
   
+  For more info about this template, checkout it's [Origin](/notes/quarz_original/_index_original.md)
