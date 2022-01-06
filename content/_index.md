@@ -16,5 +16,7 @@ In this website, you could see my thoughts  I've been developing while I learnin
 - [Mosquito Has a Needle like Proboscis](notes/Mosquito-Has-a-Needle-like-Proboscis.md)
 - [Many Long COVID Patients are suffering](notes/Many-Long-COVID-Patients-are-suffering.md)
 - [如何像定位笔记一样找到癌细胞](notes/如何像定位笔记一样找到癌细胞.md)
-  
+## TOEFL Writting
+- [It is more important for students to understand ideas and concepts than learn facts](notes/Understanding-ideas-and-concepts-VS-learninng-facts)
+- 
   For more info about this template, checkout it's [Origin](/notes/quarz_original/_index_original.md)
